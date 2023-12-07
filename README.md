@@ -24,6 +24,5 @@ This is a Library Management System implemented in Python.
 ## Screenshots
 
 !Library Management System
-![Screenshot_20231206_121434](https://github.com/MohanDharmal/Library_Management_System_PythonProject/assets/138745612/550d2306-88bd-4c8f-95a3-b3f9a5369bdc)
-
+![Screenshot_20231207_115508](https://github.com/MohanDharmal/Library_Management_System_PythonProject/assets/138745612/0b48ee11-e598-45ff-897e-88f17fc1d2f1)
 
